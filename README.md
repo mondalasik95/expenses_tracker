@@ -131,4 +131,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [jQuery](https://jquery.com/) 
 =======
 # expenses_tracker
->>>>>>> 69103d05f25c295904f2b325616b6989d55c7ed5
