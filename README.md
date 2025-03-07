@@ -43,7 +43,7 @@ A comprehensive web application for tracking personal expenses, built with PHP a
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/mondalasik95/expenses_tracker.git
    ```
 
 2. **Set up the database**
