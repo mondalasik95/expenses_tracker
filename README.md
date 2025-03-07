@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker
 
 A comprehensive web application for tracking personal expenses, built with PHP and MySQL.
@@ -129,3 +130,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Font Awesome](https://fontawesome.com/)
 - [SweetAlert2](https://sweetalert2.github.io/)
 - [jQuery](https://jquery.com/) 
+=======
+# expenses_tracker
+>>>>>>> 69103d05f25c295904f2b325616b6989d55c7ed5
