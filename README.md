@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Expense Tracker
 
 A comprehensive web application for tracking personal expenses, built with PHP and MySQL.
